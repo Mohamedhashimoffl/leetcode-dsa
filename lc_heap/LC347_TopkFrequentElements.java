@@ -1,5 +1,6 @@
 // LeetCode Problem: 347. Top K Frequent Elements
 // Link: https://leetcode.com/problems/top-k-frequent-elements/
+// Difficulty: Medium
 // Tags: Hash Table, Heap, Sorting
 // Time Complexity: O(N log N) due to sorting
 // Space Complexity: O(N)

@@ -1,5 +1,6 @@
 // LeetCode Problem: 216. Combination Sum III
 // Link: https://leetcode.com/problems/combination-sum-iii/
+// Difficulty: Medium
 // Tags: Backtracking
 // Time Complexity: O(9 choose k)
 // Space Complexity: O(k) for recursion stack

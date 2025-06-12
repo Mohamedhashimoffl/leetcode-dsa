@@ -1,8 +1,10 @@
-// LC39. Combination Sum
-// Tags: Backtracking, Array
+// LeetCode Problem: 39. Combination Sum
+// Link: https://leetcode.com/problems/combination-sum/
+// Tags: Array, Backtracking
 // Difficulty: Medium
-// Time: O(2^t * k) where t = target, k = avg. length of each combination
-// Space: O(k * x) where x = number of combinations
+// Time Complexity: O(2^t * k), where t = target and k = average length of combinations
+// Space Complexity: O(k * x), where x = number of valid combinations
+
 
 class Solution {
     static void findCombinations(int ind, int[] arr, int target, List<List<Integer>> ans, List<Integer> ds) {

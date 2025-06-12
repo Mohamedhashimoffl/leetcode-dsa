@@ -1,5 +1,6 @@
 // LeetCode Problem: 38. Count and Say
 // Link: https://leetcode.com/problems/count-and-say/
+// Difficulty: Easy
 // Tags: String, Simulation
 // Time Complexity: O(n * m) where m is the length of the generated string at step n
 // Space Complexity: O(m)

@@ -1,5 +1,6 @@
 // LeetCode Problem: 139. Word Break
 // Link: https://leetcode.com/problems/word-break/
+// Difficulty: Medium
 // Tags: Dynamic Programming, String, HashSet
 // Time Complexity: O(n^2 * m) where n = length of s, m = avg length of words in wordDict (due to substring check)
 // Space Complexity: O(n + m) for dp array and hash set storage

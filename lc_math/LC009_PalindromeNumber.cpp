@@ -1,5 +1,6 @@
 // LeetCode Problem: 9. Palindrome Number
 // Link: https://leetcode.com/problems/palindrome-number/
+// Difficulty: Easy
 // Tags: Math, Integer Manipulation
 // Time Complexity: O(log₁₀n) — number of digits in x
 // Space Complexity: O(1)

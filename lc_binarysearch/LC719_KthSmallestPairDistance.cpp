@@ -1,5 +1,6 @@
 // LeetCode Problem: 719. Find K-th Smallest Pair Distance
 // Link: https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+// Difficulty: Hard
 // Tags: Array, Two Pointers, Binary Search, Sorting
 // Time Complexity: O(n log(max-min)) * O(n)
 // Space Complexity: O(1)

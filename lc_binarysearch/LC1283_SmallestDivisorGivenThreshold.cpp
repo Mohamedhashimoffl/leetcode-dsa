@@ -1,8 +1,9 @@
-// LC1283. Find the Smallest Divisor Given a Threshold
-// Tags: Binary Search
+// LeetCode Problem: 1283. Find the Smallest Divisor Given a Threshold
+// Link: https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 // Difficulty: Medium
-// Time: O(n * log(max(nums)))
-// Space: O(1)
+// Tags: Binary Search
+// Time Complexity: O(n * log(max(nums)))
+// Space Complexity: O(1)
 
 class Solution {
 public:

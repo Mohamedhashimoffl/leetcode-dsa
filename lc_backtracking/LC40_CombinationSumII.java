@@ -1,8 +1,10 @@
 // LC40. Combination Sum II
-// Tags: Backtracking, Array
+// LeetCode Problem: 40. Combination Sum II
+// Link: https://leetcode.com/problems/combination-sum-ii/
+// Tags: Array, Backtracking
 // Difficulty: Medium
-// Time: O(2^n)
-// Space: O(k * x) where x = number of combinations, k = avg. length of each combination
+// Time Complexity: O(2^n), where n = number of candidates
+// Space Complexity: O(k * x), where x = number of valid combinations and k = average length
 
 class Solution {
     static void findCombinations(int ind, int[] arr, int target, List<List<Integer>> ans, List<Integer> ds) {

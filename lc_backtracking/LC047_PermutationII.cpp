@@ -1,10 +1,9 @@
 // LeetCode Problem: 47. Permutations II
 // Link: https://leetcode.com/problems/permutations-ii/
 // Difficulty: Medium
-
 // Tags: Backtracking, Sorting, Permutations
-// Time Complexity: O(n! * n) due to generating permutations and copying results
-// Space Complexity: O(n) for recursion stack and output storage
+// Time Complexity: O(n! * n) — n! permutations, each copied in O(n)
+// Space Complexity: O(n!) for output only (no recursion used)
 
 class Solution {
 public:

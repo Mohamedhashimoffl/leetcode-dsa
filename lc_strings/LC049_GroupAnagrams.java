@@ -1,5 +1,6 @@
 // LeetCode Problem: 49. Group Anagrams
 // Link: https://leetcode.com/problems/group-anagrams/
+// Difficulty: Medium
 // Tags: Hash Table, String, Sorting
 // Time Complexity: O(N*K) where N is number of strings and K is max string length
 // Space Complexity: O(N*K)

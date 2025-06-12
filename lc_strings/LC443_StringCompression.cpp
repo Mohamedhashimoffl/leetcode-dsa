@@ -1,5 +1,6 @@
 // LeetCode Problem: 443. String Compression
 // Link: https://leetcode.com/problems/string-compression/
+// Difficulty: Medium
 // Tags: Two Pointers, String, In-place
 // Time Complexity: O(n)
 // Space Complexity: O(1)

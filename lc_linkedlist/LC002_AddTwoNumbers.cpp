@@ -1,5 +1,6 @@
 // LeetCode Problem: 2. Add Two Numbers
 // Link: https://leetcode.com/problems/add-two-numbers/
+// Difficulty: Medium
 // Tags: Linked List, Math, Simulation
 // Time Complexity: O(max(m, n)) where m and n are the lengths of the input lists
 // Space Complexity: O(max(m, n)) for the output list

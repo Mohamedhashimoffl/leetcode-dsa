@@ -1,7 +1,6 @@
 // LeetCode Problem: 268. Missing Number
 // Link: https://leetcode.com/problems/missing-number/
 // Difficulty: Easy
-
 // Tags: Array, Math, Bit Manipulation
 // Time Complexity: O(n)
 // Space Complexity: O(1)

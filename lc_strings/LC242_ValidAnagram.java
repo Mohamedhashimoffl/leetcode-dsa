@@ -1,5 +1,6 @@
 // LeetCode Problem: 242. Valid Anagram
 // Link: https://leetcode.com/problems/valid-anagram/
+// Difficulty: Easy
 // Tags: Hash Table, String
 // Time Complexity: O(n)
 // Space Complexity: O(1)

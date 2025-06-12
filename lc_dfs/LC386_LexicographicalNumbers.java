@@ -1,0 +1,27 @@
+// Problem: 386. Lexicographical Numbers
+// Link: https://leetcode.com/problems/lexicographical-numbers/
+// Difficulty: Medium
+// Tags: DFS, Trie, Recursion
+// Time Complexity: O(n)
+// Space Complexity: O(n) – for the result list and recursion stack
+
+class Solution {
+    public List<Integer> lexicalOrder(int n) {
+        List<Integer> result = new ArrayList<>();
+        for (int i = 1; i <= 9; i++) {
+            dfs(i, n, result);
+        }
+        return result;
+    }
+
+    private void dfs(int curr, int n, List<Integer> result) {
+        if (curr > n) return;
+        result.add(curr);
+
+        for (int i = 0; i <= 9; i++) {
+            int next = curr * 10 + i;
+            if (next > n) break;
+            dfs(next, n, result);
+        }
+    }
+}
